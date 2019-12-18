@@ -1,0 +1,59 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+div {
+  background: black;
+}
+
+.btn {
+  font-weight: bold;
+}
+
+h3 { 
+  color: aquamarine;
+  border: thick solid; 
+  padding-top: 10px;
+  margin-top: 10px;
+}
+
+h4 {
+  color: wheat;
+  font-size: 16px;
+  padding-left: 5px;
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  border-left: solid greenyellow;
+}
+
+.content {
+  font-weight: bold;
+  font-size: 20px;
+  padding-left: 8px;
+  margin-top: 10px;
+  margin-left: 20px;
+  border: thin dashed blue; 
+  border-left: thick solid blueviolet
+}
+
+.programs { 
+  color: greenyellow;
+}
+
+table {
+  background:greenyellow;
+  color: red;
+}
+
+input {
+  background: greenyellow;
+  color: red;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 10px;
+  margin: 10px 0px;
+  box-shadow: none;
+  border: thin dashed blue;
+}
+
+input:focus{
+  outline: none;
+}
